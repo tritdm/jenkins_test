@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("hello Jenkins");
+    printf("hello Jenkins\n");
+    printf("test webhook trigger\n");
     return 0;
 }
